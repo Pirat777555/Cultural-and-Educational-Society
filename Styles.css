@@ -1,5 +1,38 @@
+body{
+  background-color: ffffff;
+}
 header {
 
+  width: 1416px;
+  height: 146;
+
+}
+
+h1{
+  font-size: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  color: black;
+    background-color: rgba(0, 0, 0, 0.098);
+}
+
+.imglogo {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+ul{
+  display: inline-block;
+  vertical-align: middle;
+  
+}
+
+li{
+  background-color: rgba(0, 0, 0, 0.098);
+  color: black;
+  display: inline-block;
 }
 
 main {
